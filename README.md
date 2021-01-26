@@ -1,2 +1,2 @@
 # xxx
-xxx repository
+xxx repo for git commands demonstration
